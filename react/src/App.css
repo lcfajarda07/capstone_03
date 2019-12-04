@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+#card{
+  height: 350px;
+  width: 300px;
+  margin-top: 10px;
+  margin-left: 70px;
+  float:left;
+
+}
+#index{
+  background: url(/images/singer.jpg);
+  background-size: cover;
+  background-position: fixed;
+  height:1000px;
+}
+
+#proj{
+  height:450px;
+  width:330px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  margin-right: 0px;
+  margin-left:60px;
+   float:left;
+}
+#proj1{
+  height:350px;
+  width:430px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  margin-right: 0px;
+  margin-left:60px;
+   float:left;
+}
+.dj{
+  background: url(/images/dj.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#nav{
+ 
+  background-color: #333;
+ /* Set the navbar to fixed position */
+  /* Position the navbar at the top of the page */
+
+}
+
+
+
+
